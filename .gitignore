@@ -3,3 +3,5 @@
 /workspace.xml
 # ignore .idea
 *.idea
+# ignore .iml
+*.iml
